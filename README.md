@@ -65,7 +65,7 @@
 
 <h2 align="left">🌐 Portfolio</h2>
 
-- [My Website](https://app.ictakes.com/))
+- [My Website](https://app.ictakes.com/)
 - [Website Created for Unique Nail](https://www.uniquenail.com.br/)
 - [Exercises and Tests Carried Out at Infinity School](https://github.com/IgorCristian/Infinity)
 
