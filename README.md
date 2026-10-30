@@ -23,16 +23,13 @@
 
 <!-- Ícones de contatos -->
 <div align="left">
-  <a href="https://www.linkedin.com/in/ictakes/" target="_blank">
+  <a href="https://www.linkedin.com/in/igorcristian/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href=".igorcristian" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Ictakes" target="_blank">
+  <a href="https://www.youtube.com/@igorcristian/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/ictakes/" target="_blank">
+  <a href="https://www.instagram.com/igorcristianfd/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
 </div>
@@ -68,7 +65,7 @@
 
 <h2 align="left">🌐 Portfolio</h2>
 
-- [My Drone Website](https://ictakes.com/drone-2/)
+- [My Website]([https://ictakes.com/drone-2/](https://app.ictakes.com/))
 - [Website Created for Unique Nail](https://www.uniquenail.com.br/)
 - [Exercises and Tests Carried Out at Infinity School](https://github.com/IgorCristian/Infinity)
 
